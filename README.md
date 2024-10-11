@@ -1,4 +1,4 @@
-# GreenMelb.com Frontend
+# GreenMelb.com 
 
 ## Table of Contents
 
@@ -23,9 +23,17 @@ GreenMelb.com is a web application designed to help residents of Melbourne effec
 
 - **Learn About Waste Management**: Access comprehensive resources and articles to understand effective waste management practices.
 - **Waste Quiz**: Engage in quizzes to test knowledge about waste management and recycling.
+- ![image](https://github.com/user-attachments/assets/f7e04d83-5c60-4eb4-b8c9-72ca84013096)
+
+  
 - **Scan Waste to Identify**: Use the scanning feature to identify items and learn how to dispose of them correctly.
+  ![image](https://github.com/user-attachments/assets/f97166ff-b458-4cc4-9327-328e8668c2d4)
+
 - **Learn Composting**: Discover techniques and tips for composting at home.
+  ![image](https://github.com/user-attachments/assets/b068ad00-cc34-4788-9da9-4312b1600d6c)
+
 - **Learn to Manage Waste**: Access guidelines and best practices for reducing waste and managing it effectively.
+![image](https://github.com/user-attachments/assets/48a6863b-1f58-4266-b34e-2cae0c1fcee8)
 
 ## Technologies Used
 
