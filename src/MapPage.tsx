@@ -210,6 +210,7 @@ const MapPage: React.FC = () => {
                 {/* Filter container (outside the main content) */}
                 <div className="filter-sidebar">
                     <div className="checkbox-container">
+                    <h2 style={{ color: "red" }}>This feature is temporarily disabled</h2>
                         <label>Filter by Waste Type:</label>
                         <div>
                             <input

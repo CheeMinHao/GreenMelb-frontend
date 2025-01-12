@@ -96,7 +96,8 @@ const Camera = () => {
       {showOverlay && (
         <div className="overlay">
           <div className="overlay-content">
-            <h2>Welcome to Live Waste Classification</h2>
+            <h2 style={{ color: "red" }}>(This feature is temporarily disabled)</h2>
+            <h2>Welcome to Live Waste Classification </h2>
             <p>Instructions:</p>
             <ul>
               <li>Click "Add" to classify the waste item.</li>
